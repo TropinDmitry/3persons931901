@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community1\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Project6.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  MyForm.cpp
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\2labMin\Project6\MyForm.cpp(331,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\2labMin\Project6\MyForm.cpp(339,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\I am Photoshop, it is a Programmer\Visual Studio\C++\2labMin\Project6\MyForm.cpp(412,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project6.vcxproj -> D:\I am Photoshop, it is a Programmer\Visual Studio\C++\2labMin\Debug\2labMin.exe
